@@ -1,0 +1,26 @@
+C:\Users\Gregory De Mota\source\repos\Cajero 202010472\bin\Debug\netcoreapp3.1\Cajero 202010472.exe
+C:\Users\Gregory De Mota\source\repos\Cajero 202010472\bin\Debug\netcoreapp3.1\Cajero 202010472.deps.json
+C:\Users\Gregory De Mota\source\repos\Cajero 202010472\bin\Debug\netcoreapp3.1\Cajero 202010472.runtimeconfig.json
+C:\Users\Gregory De Mota\source\repos\Cajero 202010472\bin\Debug\netcoreapp3.1\Cajero 202010472.runtimeconfig.dev.json
+C:\Users\Gregory De Mota\source\repos\Cajero 202010472\bin\Debug\netcoreapp3.1\Cajero 202010472.dll
+C:\Users\Gregory De Mota\source\repos\Cajero 202010472\bin\Debug\netcoreapp3.1\Cajero 202010472.pdb
+C:\Users\Gregory De Mota\source\repos\Cajero 202010472\obj\Debug\netcoreapp3.1\Cajero 202010472.csproj.AssemblyReference.cache
+C:\Users\Gregory De Mota\source\repos\Cajero 202010472\obj\Debug\netcoreapp3.1\Cajero 202010472.AssemblyInfoInputs.cache
+C:\Users\Gregory De Mota\source\repos\Cajero 202010472\obj\Debug\netcoreapp3.1\Cajero 202010472.AssemblyInfo.cs
+C:\Users\Gregory De Mota\source\repos\Cajero 202010472\obj\Debug\netcoreapp3.1\Cajero 202010472.csproj.CoreCompileInputs.cache
+C:\Users\Gregory De Mota\source\repos\Cajero 202010472\obj\Debug\netcoreapp3.1\Cajero 202010472.dll
+C:\Users\Gregory De Mota\source\repos\Cajero 202010472\obj\Debug\netcoreapp3.1\Cajero 202010472.pdb
+C:\Users\Gregory De Mota\source\repos\Cajero 202010472\obj\Debug\netcoreapp3.1\Cajero 202010472.genruntimeconfig.cache
+C:\Users\Gregory De Mota\source\repos\Parcial\bin\Debug\netcoreapp3.1\Cajero 202010472.exe
+C:\Users\Gregory De Mota\source\repos\Parcial\bin\Debug\netcoreapp3.1\Cajero 202010472.deps.json
+C:\Users\Gregory De Mota\source\repos\Parcial\bin\Debug\netcoreapp3.1\Cajero 202010472.runtimeconfig.json
+C:\Users\Gregory De Mota\source\repos\Parcial\bin\Debug\netcoreapp3.1\Cajero 202010472.runtimeconfig.dev.json
+C:\Users\Gregory De Mota\source\repos\Parcial\bin\Debug\netcoreapp3.1\Cajero 202010472.dll
+C:\Users\Gregory De Mota\source\repos\Parcial\bin\Debug\netcoreapp3.1\Cajero 202010472.pdb
+C:\Users\Gregory De Mota\source\repos\Parcial\obj\Debug\netcoreapp3.1\Cajero 202010472.csproj.AssemblyReference.cache
+C:\Users\Gregory De Mota\source\repos\Parcial\obj\Debug\netcoreapp3.1\Cajero 202010472.AssemblyInfoInputs.cache
+C:\Users\Gregory De Mota\source\repos\Parcial\obj\Debug\netcoreapp3.1\Cajero 202010472.AssemblyInfo.cs
+C:\Users\Gregory De Mota\source\repos\Parcial\obj\Debug\netcoreapp3.1\Cajero 202010472.csproj.CoreCompileInputs.cache
+C:\Users\Gregory De Mota\source\repos\Parcial\obj\Debug\netcoreapp3.1\Cajero 202010472.dll
+C:\Users\Gregory De Mota\source\repos\Parcial\obj\Debug\netcoreapp3.1\Cajero 202010472.pdb
+C:\Users\Gregory De Mota\source\repos\Parcial\obj\Debug\netcoreapp3.1\Cajero 202010472.genruntimeconfig.cache
